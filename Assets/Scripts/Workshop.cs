@@ -8,12 +8,12 @@ public class Workshop : MonoBehaviour
     void Start()
     {
         // As01_SyntaxIf();
-        //As02_StringComparisonExample();
-        // As03_NumberComparisonExample();
+        // As02_StringComparisonExample();
+         As03_NumberComparisonExample();
         // As04_AndOrOperatorExample();
         // As05_GuessingNumberExample();
         // As06_GuessingNumberMoreOrLessExample();
-         As07_VerifyIdentityExample();
+        // As07_VerifyIdentityExample();
     }
 
     public bool isSixOClock;
